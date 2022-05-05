@@ -1,2 +1,2 @@
 # Jp-public
-Learning
+Learning the public repository
